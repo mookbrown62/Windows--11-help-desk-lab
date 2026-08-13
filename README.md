@@ -125,3 +125,41 @@ Screenshots from the lab demonstrate:
 Outcome
 
 Successfully diagnosed and resolved the Windows 11 performance issue using a structured Help Desk troubleshooting process. The incident was documented and resolved in ServiceNow, demonstrating both technical troubleshooting and IT service management skills.
+
+
+## Lab Screenshots
+
+### 1. Initial Task Manager Analysis
+Reviewed Task Manager to identify high CPU, memory, disk usage, and unnecessary processes.
+
+![Task Manager Before](task%20manager%20before.JPEG)
+
+### 2. Startup Application Review
+Reviewed startup applications and disabled unnecessary programs to improve system startup performance.
+
+![Startup Apps](Startup%20apps.PNG)
+
+### 3. Windows Update Check
+Checked Windows Update for pending operating system updates.
+
+![Windows Update Pending](windows%20update%20pending.PNG)
+
+### 4. Windows Update Completed
+Installed available Windows updates and verified the system was fully updated.
+
+![Windows Update Complete](Windows%20update%20complete.PNG)
+
+### 5. Disk Storage Analysis
+Reviewed disk storage to verify sufficient free space and identify potential storage-related performance issues.
+
+![Disk Storage](disk%20storage.JPEG)
+
+### 6. Post-Troubleshooting Verification
+Rechecked Task Manager after troubleshooting to verify system performance.
+
+![Task Manager After](task%20manager%20after.PNG)
+
+### 7. ServiceNow Incident Resolution
+Documented the troubleshooting process and resolution in ServiceNow and resolved the incident.
+
+![ServiceNow Resolution](service%20now%20resolution.HEIC)
